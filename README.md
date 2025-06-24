@@ -20,9 +20,10 @@ The project includes:
 
 ## File Structure
 
+```
 ├── main.pdf # Final project report
 ├── slides.pdf # Presentation slides
 ├── README.md # This file
 ├── FinalProject_guideline.pdf # Spec
 └── docs/ # Papers I reference
-
+```
